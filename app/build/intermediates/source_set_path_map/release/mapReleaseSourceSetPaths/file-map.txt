@@ -1,0 +1,65 @@
+com.factory.slumberaisleepcoach.app-material-icons-core-release-0 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/04fd362ed42c348a1bace733136db092/transformed/material-icons-core-release/res
+com.factory.slumberaisleepcoach.app-ui-geometry-release-1 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/0673dd3510021d6a19562855c0e16262/transformed/ui-geometry-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-runtime-ktx-release-2 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/0845ece97fea7281e30734eda5d19888/transformed/lifecycle-runtime-ktx-release/res
+com.factory.slumberaisleepcoach.app-room-runtime-2.6.1-3 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/0bfedc7d409e2b967789b901547998cd/transformed/room-runtime-2.6.1/res
+com.factory.slumberaisleepcoach.app-lifecycle-livedata-2.8.4-4 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/0e027d924caa11270192b0f6628acafc/transformed/lifecycle-livedata-2.8.4/res
+com.factory.slumberaisleepcoach.app-lifecycle-process-2.8.4-5 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/0e82150f4810e5b7cc88f7f6d74f36a2/transformed/lifecycle-process-2.8.4/res
+com.factory.slumberaisleepcoach.app-play-services-base-18.0.1-6 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/10c67fe90ae258d2bdba3849db592e7b/transformed/play-services-base-18.0.1/res
+com.factory.slumberaisleepcoach.app-savedstate-1.2.1-7 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/137182caecb0a4cdc4cd3b1ee010e151/transformed/savedstate-1.2.1/res
+com.factory.slumberaisleepcoach.app-navigation-common-2.7.7-8 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/13a287c4e8fc3e082bd92053ca503439/transformed/navigation-common-2.7.7/res
+com.factory.slumberaisleepcoach.app-ui-unit-release-9 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/145053468fec4d1162e17d5021f6a6cb/transformed/ui-unit-release/res
+com.factory.slumberaisleepcoach.app-core-ktx-1.13.1-10 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/206a7fde55f469e9900e11511772f926/transformed/core-ktx-1.13.1/res
+com.factory.slumberaisleepcoach.app-navigation-compose-2.7.7-11 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/20cdd16871639f45107b1cd63d7c5a6b/transformed/navigation-compose-2.7.7/res
+com.factory.slumberaisleepcoach.app-room-ktx-2.6.1-12 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/22508d60676743a4f31fcff3216ef1ba/transformed/room-ktx-2.6.1/res
+com.factory.slumberaisleepcoach.app-material-ripple-release-13 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/22f9aef98d5352c21d77dfc3f507d780/transformed/material-ripple-release/res
+com.factory.slumberaisleepcoach.app-animation-core-release-14 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/295e44c66144dc43aa0e2090a3eaa0a4/transformed/animation-core-release/res
+com.factory.slumberaisleepcoach.app-foundation-release-15 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/2bf6afd68c2462fcca97b0e8201826a5/transformed/foundation-release/res
+com.factory.slumberaisleepcoach.app-emoji2-1.3.0-16 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/2d29d9078a267e579ed52298153db933/transformed/emoji2-1.3.0/res
+com.factory.slumberaisleepcoach.app-core-splashscreen-1.0.1-17 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/3c6294dcb9eb3d6a89f93299cb74590e/transformed/core-splashscreen-1.0.1/res
+com.factory.slumberaisleepcoach.app-lifecycle-viewmodel-savedstate-2.8.4-18 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/49565cd3e2e88ca9be93b1dcb9cc0d2a/transformed/lifecycle-viewmodel-savedstate-2.8.4/res
+com.factory.slumberaisleepcoach.app-activity-compose-1.9.1-19 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/4bd69e122e23cfb4391bed15982a7a92/transformed/activity-compose-1.9.1/res
+com.factory.slumberaisleepcoach.app-startup-runtime-1.1.1-20 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/558fb58b8d07f10dc2bbcee2db7792e6/transformed/startup-runtime-1.1.1/res
+com.factory.slumberaisleepcoach.app-datastore-preferences-release-21 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/5632c8064bbddd07d37a659ea5a3f0a3/transformed/datastore-preferences-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-livedata-core-2.8.4-22 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/66bef5fc60d2a593f3d4bf896a3f7baf/transformed/lifecycle-livedata-core-2.8.4/res
+com.factory.slumberaisleepcoach.app-runtime-saveable-release-23 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/68052b07d9fad13b94c9de20b2424295/transformed/runtime-saveable-release/res
+com.factory.slumberaisleepcoach.app-coordinatorlayout-1.0.0-24 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/7187085f6c6667596d20560010db9493/transformed/coordinatorlayout-1.0.0/res
+com.factory.slumberaisleepcoach.app-lifecycle-viewmodel-compose-release-25 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/75e17bf6519e4f7da8a86bcc06277221/transformed/lifecycle-viewmodel-compose-release/res
+com.factory.slumberaisleepcoach.app-ui-release-26 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/795d046e2825f2390a0b5545e48251cd/transformed/ui-release/res
+com.factory.slumberaisleepcoach.app-navigation-common-ktx-2.7.7-27 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/7ecb856ba9686c6826534c3ebc9135fc/transformed/navigation-common-ktx-2.7.7/res
+com.factory.slumberaisleepcoach.app-core-1.13.1-28 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/8571af2fe048d9a9a52e30a1088baf05/transformed/core-1.13.1/res
+com.factory.slumberaisleepcoach.app-profileinstaller-1.3.1-29 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/9144236a3cc4a296dff272dd678491d9/transformed/profileinstaller-1.3.1/res
+com.factory.slumberaisleepcoach.app-material-icons-extended-release-30 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/9337ff12e1f4a7420a443c7d6a45c434/transformed/material-icons-extended-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-livedata-core-ktx-2.8.4-31 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/9d0c7edfd8104a26a7d0597a40cfe9e8/transformed/lifecycle-livedata-core-ktx-2.8.4/res
+com.factory.slumberaisleepcoach.app-savedstate-ktx-1.2.1-32 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/9e835ebc4eee997b14614f81ea0da3a9/transformed/savedstate-ktx-1.2.1/res
+com.factory.slumberaisleepcoach.app-runtime-release-33 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ab99556f91b94bf82a5a7bff4e6f08a6/transformed/runtime-release/res
+com.factory.slumberaisleepcoach.app-billing-6.1.0-34 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ac5af71c70342ba31ef2a9a100095b66/transformed/billing-6.1.0/res
+com.factory.slumberaisleepcoach.app-datastore-release-35 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ad11898939d4733f2063e3b426f4f0c2/transformed/datastore-release/res
+com.factory.slumberaisleepcoach.app-customview-poolingcontainer-1.0.0-36 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ad18c8d7b862b76f6133b7511d71340c/transformed/customview-poolingcontainer-1.0.0/res
+com.factory.slumberaisleepcoach.app-core-runtime-2.2.0-37 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/af452589687818103be74a28ef1477db/transformed/core-runtime-2.2.0/res
+com.factory.slumberaisleepcoach.app-ui-text-release-38 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/b5a161d9714a71d7c644ea4cc4a862d0/transformed/ui-text-release/res
+com.factory.slumberaisleepcoach.app-animation-release-39 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/c7e899348d781f4c95f355e5e59689b8/transformed/animation-release/res
+com.factory.slumberaisleepcoach.app-activity-1.9.1-40 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/c84fe6291bdbd3407cf6a16e58584e0d/transformed/activity-1.9.1/res
+com.factory.slumberaisleepcoach.app-sqlite-2.4.0-41 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/d0c9d424e68e538c91aaa1d9fdcf40ba/transformed/sqlite-2.4.0/res
+com.factory.slumberaisleepcoach.app-foundation-layout-release-42 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/d55e8f640ee822a79007c8d2491aebbf/transformed/foundation-layout-release/res
+com.factory.slumberaisleepcoach.app-activity-ktx-1.9.1-43 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/d74672238ef612d5bfe16606fa21ba2b/transformed/activity-ktx-1.9.1/res
+com.factory.slumberaisleepcoach.app-navigation-runtime-2.7.7-44 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/d8a62f599095aa1d6c06a142b87ccdba/transformed/navigation-runtime-2.7.7/res
+com.factory.slumberaisleepcoach.app-ui-tooling-preview-release-45 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/dd07c4fdbc93f3cb2fe7662eff8f54ed/transformed/ui-tooling-preview-release/res
+com.factory.slumberaisleepcoach.app-navigation-runtime-ktx-2.7.7-46 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/de12f1a3c0c48772898c351a53cb4e00/transformed/navigation-runtime-ktx-2.7.7/res
+com.factory.slumberaisleepcoach.app-datastore-core-release-47 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/e882cc8bd0b1c2ab05f99c204c59340a/transformed/datastore-core-release/res
+com.factory.slumberaisleepcoach.app-play-services-basement-18.0.1-48 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/e90e4fc769045c36c477d4491cf50c25/transformed/play-services-basement-18.0.1/res
+com.factory.slumberaisleepcoach.app-annotation-experimental-1.4.0-49 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/e9388202faf6d75f3edfebd8fbd7a047/transformed/annotation-experimental-1.4.0/res
+com.factory.slumberaisleepcoach.app-lifecycle-runtime-compose-release-50 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/eb525a494d3955ba4edec5aa88663ac2/transformed/lifecycle-runtime-compose-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-viewmodel-ktx-2.8.4-51 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ee33ece196d9be73fd0e14ae20c347e5/transformed/lifecycle-viewmodel-ktx-2.8.4/res
+com.factory.slumberaisleepcoach.app-sqlite-framework-2.4.0-52 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/eff3a0b5a7cb0f103cb18a21be6b25d7/transformed/sqlite-framework-2.4.0/res
+com.factory.slumberaisleepcoach.app-ui-util-release-53 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/f0cc088f2e5075234350734626fb9b29/transformed/ui-util-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-viewmodel-release-54 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/f2c54935dfb1a1b82a79b5b2b49184fa/transformed/lifecycle-viewmodel-release/res
+com.factory.slumberaisleepcoach.app-material3-release-55 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/f656bab1b15ebfc341fcafa8cd87722a/transformed/material3-release/res
+com.factory.slumberaisleepcoach.app-lifecycle-runtime-release-56 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/f9de9e876a1759d4d9db57103ef78a91/transformed/lifecycle-runtime-release/res
+com.factory.slumberaisleepcoach.app-ui-graphics-release-57 /Users/sushanthtiruvaipati/.gradle/caches/transforms-4/ff9c140bd7cbaba233690d11bafd9d1a/transformed/ui-graphics-release/res
+com.factory.slumberaisleepcoach.app-pngs-58 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/build/generated/res/pngs/release
+com.factory.slumberaisleepcoach.app-resValues-59 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/build/generated/res/resValues/release
+com.factory.slumberaisleepcoach.app-packageReleaseResources-60 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.factory.slumberaisleepcoach.app-packageReleaseResources-61 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.factory.slumberaisleepcoach.app-release-62 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.factory.slumberaisleepcoach.app-main-63 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/src/main/res
+com.factory.slumberaisleepcoach.app-release-64 /Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/src/release/res

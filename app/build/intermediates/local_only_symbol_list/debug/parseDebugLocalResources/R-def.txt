@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color day_background
+color midnight_background
+color midnight_moonlight
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_notification
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string channel_description
+string channel_name
+string notification_text
+string notification_title
+style Theme.App.Starting
+style Theme.SlumberAISleepCoach

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.factory.slumberaisleepcoach.app-mergeReleaseResources-60:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/sushanthtiruvaipati/Documents/AndroidApps/Slumber AI: Sleep Coach/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "8,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "398,55",
+                        "endLines": "12,6",
+                        "endColumns": "12,12",
+                        "endOffsets": "731,392"
+                    },
+                    "to": {
+                        "startLines": "3,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "141,479",
+                        "endLines": "7,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "474,816"
+                    }
+                },
+                {
+                    "source": "/Users/sushanthtiruvaipati/.gradle/caches/transforms-4/3c6294dcb9eb3d6a89f93299cb74590e/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.factory.slumberaisleepcoach.app-mergeDebugResources-64:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "/Users/sushanthtiruvaipati/.gradle/caches/9.4.0/transforms/8b498dff851e28b3e475b4e4c20d50ed/transformed/core-splashscreen-1.0.1/res/values-v29/values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}

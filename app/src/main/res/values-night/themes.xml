@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SlumberAISleepCoach" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/midnight_background</item>
+        <item name="android:statusBarColor">@color/midnight_background</item>
+        <item name="android:navigationBarColor">@color/midnight_background</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/midnight_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.SlumberAISleepCoach</item>
+    </style>
+</resources>

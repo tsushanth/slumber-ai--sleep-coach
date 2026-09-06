@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Slumber AI: Sleep Coach</string>
+    <string name="channel_name">Sleep Tracking</string>
+    <string name="channel_description">Monitors your sleep and snoring</string>
+    <string name="notification_title">Sleep Tracking Active</string>
+    <string name="notification_text">Monitoring your sleep session…</string>
+</resources>
